@@ -1,8 +1,15 @@
+"use client"
+
+import React, { useState } from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
 import styles from './page.module.scss'
+import { FiMenu } from "react-icons/fi"
+import { IoMdClose } from "react-icons/io"
 
 export default function Home() {
+  const [menu, setMenu] = useState(false)
+
   return (
     <main className={styles.container}>
       <div id='Home' className={styles.content}>
@@ -14,10 +21,18 @@ export default function Home() {
             className={styles.logo}
             alt="logo"
           />
+
+          <nav onClick={() => setMenu(!menu)} className={styles.menu}>
+            {menu ? (
+              <IoMdClose color="#141414" size={26} />
+            ) : (
+              <FiMenu color="#141414" size={26} />
+            )}
+          </nav>
         </div>
 
         <div className={styles.box2}>
-          <header className={styles.header}>
+          <header className={menu ? styles.header1 : styles.header2}>
             <div className={styles.contentHeader}>
               <Link href='/'><h2>Home</h2></Link>
               <Link href='/Sobre'><h2>Sobre</h2></Link>
