@@ -7,7 +7,7 @@ export default function Sobre() {
     <main className={styles.container}>
       <Header />
 
-      
+
     </main>
   )
 }
