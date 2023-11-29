@@ -43,7 +43,7 @@ export default function Sobre() {
             width={300}
             height={300}
             className={styles.foto}
-            alt="logo"
+            alt="foto"
           />
         </div>
       </main>
