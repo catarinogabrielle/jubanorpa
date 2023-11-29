@@ -23,14 +23,15 @@
 
 .box1 {
   width: 40%;
-  background-color: rgba(255, 255, 255, 0.842);
+  background-color: rgba(255, 255, 255, 0.904);
   display: flex;
   justify-content: center;
   align-items: center;
 
   @media screen and (max-width: 900px) {
     width: 100%;
-    padding: 14px 28px;
+    padding: 17px 28px;
+    background-color: rgb(255, 255, 255);
     justify-content: space-between;
   }
 }
@@ -40,8 +41,8 @@
   height: 80px;
 
   @media screen and (max-width: 900px) {
-    width: 120px;
-    height: 20px;
+    width: 130px;
+    height: 22px;
   }
 }
 
