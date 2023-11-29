@@ -1,3 +1,4 @@
+import Image from 'next/image'
 import styles from './page.module.scss'
 
 import Header from '../components/header/page'
@@ -36,6 +37,14 @@ export default function Sobre() {
             Lorem ipsum dolor sit amet, consectetur adipiscing elit.
             Nullam vitae augue suscipit neque tincidunt vulputate eget eu metus.
           </p>
+
+          <Image
+            src="/foto1.png"
+            width={300}
+            height={300}
+            className={styles.foto}
+            alt="logo"
+          />
         </div>
       </main>
     </div>
