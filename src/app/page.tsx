@@ -15,7 +15,7 @@ export default function Home() {
       <div id='Home' className={styles.content}>
         <div className={styles.box1}>
           <Image
-            src="/logo.png"
+            src="/logo1.png"
             width={300}
             height={300}
             className={styles.logo}
