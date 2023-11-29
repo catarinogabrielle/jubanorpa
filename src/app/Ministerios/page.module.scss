@@ -5,3 +5,54 @@
   background-color: #fff;
   min-height: 100vh;
 }
+
+.content {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+}
+
+.boxHeader {
+  display: flex;
+  width: 100%;
+  background-image: url("../../assets/content2_background.jpg");
+  background-repeat: no-repeat, repeat;
+  background-color: #cecece;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  flex-direction: column;
+
+  div {
+    background-color: rgba(0, 0, 0, 0.594);
+    padding: 60px 100px 50px 100px;
+  }
+
+  h1 {
+    font-size: 38px;
+    color: #fff;
+    font-weight: 300;
+  }
+
+  p {
+    font-size: 17px;
+    color: #fff;
+    font-weight: 200;
+    margin-top: 8px;
+  }
+
+  @media screen and (max-width: 900px) {
+    div {
+      padding: 40px 20px;
+    }
+
+    h1 {
+      font-size: 28px;
+    }
+
+    p {
+      font-size: 14px;
+    }
+  }
+}

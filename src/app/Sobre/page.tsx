@@ -12,7 +12,7 @@ export default function Sobre() {
         <div className={styles.boxHeader}>
           <div>
             <h1>Quem Somos</h1>
-            <p>Conheça um pouco mais sobre a Jubanorpa</p>
+            <p>Conheça um pouco mais sobre a Jubanorpa.</p>
           </div>
         </div>
 
