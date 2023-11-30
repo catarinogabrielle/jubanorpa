@@ -5,6 +5,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import styles from './page.module.scss'
 import { FiMenu } from "react-icons/fi"
+import { FaInstagram, FaTiktok, FaYoutube } from "react-icons/fa"
 import { IoMdClose } from "react-icons/io"
 
 export default function Home() {
@@ -57,6 +58,26 @@ export default function Home() {
           </div>
         </div>
       </div>
+
+      <nav className={styles.contentSocial}>
+        <a href='https://www.instagram.com/' target="_blank">
+          <div>
+            <FaInstagram color="#141515" size={22} />
+          </div>
+        </a>
+
+        <a href='https://www.tiktok.com/pt-BR/' target="_blank">
+          <div>
+            <FaTiktok color="#141515" size={22} />
+          </div>
+        </a>
+
+        <a href='https://www.youtube.com/' target="_blank">
+          <div>
+            <FaYoutube color="#141515" size={22} />
+          </div>
+        </a>
+      </nav>
     </main>
   )
 }
