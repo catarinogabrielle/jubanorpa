@@ -19,6 +19,7 @@
       }
     ],
     "no-inline-styles": "off",
-    "disown-opener": "off"
+    "disown-opener": "off",
+    "typescript-config/is-valid": "off"
   }
 }
