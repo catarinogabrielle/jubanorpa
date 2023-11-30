@@ -4,8 +4,12 @@ import Header from '../components/header/page'
 
 export default function Loja() {
   return (
-    <main className={styles.container}>
+    <div className={styles.container}>
       <Header />
-    </main>
+
+      <div className={styles.contentInfo}>
+
+      </div>
+    </div>
   )
 }

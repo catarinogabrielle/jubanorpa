@@ -5,3 +5,135 @@
   background-color: #fff;
   min-height: 100vh;
 }
+
+.content {
+  display: flex;
+  width: 100%;
+  padding: 0 50px;
+  margin-top: 40px;
+  flex-direction: column;
+
+  @media screen and (max-width: 900px) {
+    padding: 0 20px;
+    margin-top: 30px;
+  }
+}
+
+.title {
+  display: flex;
+  width: 100%;
+  border-bottom: 1px solid #cecece;
+  padding: 0 0 10px 10px;
+
+  h1 {
+    font-size: 27px;
+    color: #141515;
+    font-weight: 500;
+  }
+
+  @media screen and (max-width: 900px) {
+    h1 {
+      font-size: 19px;
+    }
+  }
+}
+
+.contentInfo {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 30px 0 50px 0;
+}
+
+.card {
+  display: flex;
+  flex-direction: row;
+  width: 500px;
+  border: 1px solid #eaeaea;
+  height: 210px;
+  padding: 20px;
+  box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  align-items: center;
+  margin: 0 20px 40px 0;
+
+  div {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100% !important;
+  }
+
+  h2 {
+    font-size: 18px;
+    color: #141515;
+    font-weight: 600;
+  }
+
+  p {
+    font-size: 14px;
+    color: #141515;
+    margin-top: 8px;
+    font-weight: 300;
+    line-height: 22px;
+  }
+
+  @media screen and (max-width: 900px) {
+    flex-direction: column-reverse;
+    width: 100%;
+    padding: 20px 15px;
+    margin: 0 0 40px 0;
+    height: max-content;
+
+    h2 {
+      font-size: 16px;
+      margin-top: 15px;
+    }
+
+    p {
+      font-size: 13px;
+    }
+  }
+}
+
+.foto {
+  width: 180px;
+  height: auto;
+  margin-left: 20px;
+  border-radius: 4px;
+
+  @media screen and (max-width: 900px) {
+    width: 100%;
+    margin-left: 0;
+    height: 180px;
+    object-fit: cover;
+  }
+}
+
+.button {
+  background-color: #FFD23F;
+  border: none;
+  color: #313131;
+  padding: 8px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+  width: max-content;
+  border-radius: 30px;
+  margin-top: 18px;
+  transition: 0.4s;
+
+  @media screen and (max-width: 900px) {
+    font-size: 13px;
+    width: 100%;
+  }
+}
+
+.button:hover {
+  scale: 1.05;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.25);
+}
