@@ -16,7 +16,7 @@ export default function Projetos() {
 
         <div className={styles.contentInfo}>
           {rows.data.map(item => (
-            <div className={styles.card}>
+            <div key={item.id} className={styles.card}>
               <div>
                 <nav>
                   <h2>{item.title}</h2>
