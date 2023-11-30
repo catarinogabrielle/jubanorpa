@@ -4,8 +4,8 @@ import Header from '../components/header/page'
 
 export default function Contato() {
   return (
-    <main className={styles.container}>
+    <div className={styles.container}>
       <Header />
-    </main>
+    </div>
   )
 }
