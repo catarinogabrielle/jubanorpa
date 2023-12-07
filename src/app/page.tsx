@@ -39,7 +39,6 @@ export default function Home() {
               <Link href='/Sobre'><h2>Sobre</h2></Link>
               <Link href='/Ministerios'><h2>Ministérios</h2></Link>
               <Link href='/Projetos'><h2>Projetos</h2></Link>
-              <Link href='/Igrejas'><h2>Igrejas</h2></Link>
               <Link href='/Loja'><h2>Loja</h2></Link>
               <Link href='/Contato'><h2>Contato</h2></Link>
             </div>
