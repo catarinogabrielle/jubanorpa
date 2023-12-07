@@ -1,5 +1,5 @@
 import styles from './page.module.scss'
-import { FaInstagram, FaTiktok, FaYoutube } from "react-icons/fa"
+import { FaInstagram, FaTiktok, FaYoutube, FaWhatsapp } from "react-icons/fa"
 
 import Header from '../components/header/page'
 
@@ -51,6 +51,12 @@ export default function Contato() {
             <a href='https://www.youtube.com/' target="_blank">
               <div style={{ backgroundColor: '#fff' }}>
                 <FaYoutube color="#f00" size={26} />
+              </div>
+            </a>
+
+            <a href='https://web.whatsapp.com/' target="_blank">
+              <div style={{ backgroundColor: '#10e830' }}>
+                <FaWhatsapp color="#fff" size={26} />
               </div>
             </a>
           </nav>
