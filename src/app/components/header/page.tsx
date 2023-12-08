@@ -14,7 +14,7 @@ export default function Header() {
     <>
       <header className={styles.headerContent}>
         <Image
-          src="/logo.png"
+          src="/logo-header.png"
           width={300}
           height={300}
           className={styles.logo1}
@@ -33,7 +33,7 @@ export default function Header() {
       <header className={menu ? styles.header1 : styles.header2}>
         <div className={styles.contentHeader}>
           <Image
-            src="/logo.png"
+            src="/logo-header.png"
             width={300}
             height={300}
             className={styles.logo2}
