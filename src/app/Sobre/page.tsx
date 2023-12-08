@@ -17,26 +17,13 @@ export default function Sobre() {
         </div>
 
         <div className={styles.boxInfo}>
-          <text>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            Nullam vitae augue suscipit neque tincidunt vulputate eget eu metus.</text>
+          <text>Assim que, se alguém está aem Cristo, bnova criatura é; as coisas cvelhas já passaram; eis que tudo se fez novo. (2 Coríntios 5:17)</text>
 
           <h2>Nosso propósito:</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            Nullam vitae augue suscipit neque tincidunt vulputate eget eu metus.
-            Proin auctor libero semper sem venenatis imperdiet. Maecenas elit lorem,
-            gravida a sapien nec, placerat vulputate urna. Suspendisse eu porttitor
-            risus. Proin gravida facilisis velit, in consequat nisi commodo vitae.</p>
+          <p>Ser uma ferramenta na semeadura do futuro da Igreja Batista no Norte do Paraná.</p>
 
           <h2>Nossa visão:</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            Nullam vitae augue suscipit neque tincidunt vulputate eget eu metus.
-            Proin auctor libero semper sem venenatis imperdiet. Maecenas elit lorem,
-            gravida a sapien nec, placerat vulputate urna. Suspendisse eu porttitor
-            risus. Proin gravida facilisis velit, in consequat nisi commodo vitae.
-            <br /><br />
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            Nullam vitae augue suscipit neque tincidunt vulputate eget eu metus.
-          </p>
+          <p>Nada excelente é feito SOZINHO. (Um ministério não é liderado sozinho.)</p>
 
           <Image
             src="/foto1.png"

@@ -3,50 +3,56 @@
         {
             "id": 1,
             "title": "Louvorzão",
-            "description": "uma breve descição core o evento de louvorzão nas igrejas no norte do parana oferecido pela jubanorpa",
-            "img": "/foto2_min.png"
+            "description": "Culto com o foco de reunir bandas de outras igrejas da região, promovendo a comunhão entre jovens.",
+            "img": "/projeto1.png"
         },
         {
             "id": 2,
-            "title": "Louvorzão",
-            "description": "uma breve descição core o evento de louvorzão nas igrejas no norte do parana oferecido pela jubanorpa",
-            "img": "/foto2_min.png"
+            "title": "Retiro de Carnaval",
+            "description": "Músicas, palestras, campeonatos, momentos de descontração, crescimento espiritual no período de carnaval.",
+            "img": "/projeto2.png"
         },
         {
             "id": 3,
-            "title": "Louvorzão",
-            "description": "uma breve descição core o evento de louvorzão nas igrejas no norte do parana oferecido pela jubanorpa",
-            "img": "/foto2_min.png"
+            "title": "TED Miniterial",
+            "description": "Capacitação ministerial e departamental dentro  dos ministérios jovens.",
+            "img": "/projeto3.png"
         },
         {
             "id": 4,
-            "title": "Louvorzão",
-            "description": "uma breve descição core o evento de louvorzão nas igrejas no norte do parana oferecido pela jubanorpa",
-            "img": "/foto2_min.png"
+            "title": "Jogo das Casas",
+            "description": "Competições entre as igrejas, atravez do JUBADOLE.",
+            "img": "/projeto4.png"
         },
         {
             "id": 5,
-            "title": "Louvorzão",
-            "description": "uma breve descição core o evento de louvorzão nas igrejas no norte do parana oferecido pela jubanorpa",
-            "img": "/foto2_min.png"
+            "title": "LIVE DAY",
+            "description": "Evento de um dia promovido pela jubanorpa nas igrejas, com musicas, ministração, e confraternização.",
+            "img": "/projeto5.png"
         },
         {
             "id": 6,
-            "title": "Louvorzão",
-            "description": "uma breve descição core o evento de louvorzão nas igrejas no norte do parana oferecido pela jubanorpa",
-            "img": "/foto2_min.png"
+            "title": "Café com Líderes",
+            "description": "Momento onde os lideres da reião podem compartilhar notícias de sua igreja local, melhorando seus ministérios.",
+            "img": "/projeto6.png"
         },
         {
             "id": 7,
-            "title": "Louvorzão",
-            "description": "uma breve descição core o evento de louvorzão nas igrejas no norte do parana oferecido pela jubanorpa",
-            "img": "/foto2_min.png"
+            "title": "Eu Missionário",
+            "description": "Dia de treinamento missionário, ação evangelística, e vivencia missionária.",
+            "img": "/projeto7.png"
         },
         {
             "id": 8,
-            "title": "Louvorzão",
-            "description": "uma breve descição core o evento de louvorzão nas igrejas no norte do parana oferecido pela jubanorpa",
-            "img": "/foto2_min.png"
+            "title": "CONNECT",
+            "description": "Dia de crescimento com jovens casais que estão começando a vida a dois.",
+            "img": "/projeto8.png"
+        },
+        {
+            "id": 9,
+            "title": "JUBA Deles / Delas",
+            "description": "Palestras para as dificuldades e desafios dos dias atuais tanto para eles como para elas.",
+            "img": "/projeto9.png"
         }
     ]
 }

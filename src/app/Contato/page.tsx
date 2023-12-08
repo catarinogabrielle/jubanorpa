@@ -17,8 +17,10 @@ export default function Contato() {
         </div>
 
         <div className={styles.boxInfo}>
-          <text>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            Nullam vitae augue suscipit neque tincidunt vulputate eget eu metus.</text>
+          <text>Apoiamos o crescimento e desenvolvimento do jovem e adolescente
+            dentro das igrejas Batista, dando o suporte para criação e manutenção
+            de ministérios jovens no Norte do Paraná, e promovendo eventos de
+            integração e comunhão entre as igrejas da região.</text>
 
           <div>
             <h2>Telefone:</h2>

@@ -45,13 +45,12 @@ export default function Home() {
           </header>
 
           <div className={styles.info}>
-            <h1>ABOUT US</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
-              Ut enim ad minim veniam, quis nostrud exercitation ullamco
-              laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-              in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-              nulla pariatur.</p>
+            <h1>Nosso trabalho</h1>
+            <p>Apoiamos o crescimento e desenvolvimento do jovem e
+              adolescente dentro das igrejas Batista, dando o suporte
+              para criação e manutenção de ministérios jovens no
+              Norte do Paraná, e promovendo eventos de integração
+              e comunhão entre as igrejas da região.</p>
 
             <nav className={styles.contentSocial}>
               <a href='https://www.instagram.com/' target="_blank">

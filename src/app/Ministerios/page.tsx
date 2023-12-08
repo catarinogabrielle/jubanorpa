@@ -27,11 +27,8 @@ export default function Ministerios() {
             />
             <div>
               <h2>JUBANORPA</h2>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Nullam vitae augue suscipit neque tincidunt vulputate eget eu metus.
-                Proin auctor libero semper sem venenatis imperdiet. Maecenas elit lorem,
-                gravida a sapien nec, placerat vulputate urna. Suspendisse eu porttitor
-                risus. Proin gravida facilisis velit, in consequat nisi commodo vitae.</p>
+              <p>Focado no crescimento de jovens, transformando em líderes,
+                atravez de temas atuais e mais complexos que talvez as igrejas locais não consigam abordar.</p>
             </div>
           </div>
 
@@ -45,11 +42,8 @@ export default function Ministerios() {
             />
             <div>
               <h2>JUBADOLES</h2>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Nullam vitae augue suscipit neque tincidunt vulputate eget eu metus.
-                Proin auctor libero semper sem venenatis imperdiet. Maecenas elit lorem,
-                gravida a sapien nec, placerat vulputate urna. Suspendisse eu porttitor
-                risus. Proin gravida facilisis velit, in consequat nisi commodo vitae.</p>
+              <p>Voltado a incentivar adolescentes a amar a igreja e querer estar em comunhão.
+                Instruir adolescentes e incentivar ministérios a partir de uma linguagem atual e abordagem estimulante.</p>
             </div>
           </div>
 
@@ -62,12 +56,10 @@ export default function Ministerios() {
               alt="foto"
             />
             <div>
-              <h2>Connect</h2>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Nullam vitae augue suscipit neque tincidunt vulputate eget eu metus.
-                Proin auctor libero semper sem venenatis imperdiet. Maecenas elit lorem,
-                gravida a sapien nec, placerat vulputate urna. Suspendisse eu porttitor
-                risus. Proin gravida facilisis velit, in consequat nisi commodo vitae.</p>
+              <h2>JUBADOIS</h2>
+              <p>Voltado para jovens casais que estão iniciando seu ministério cmo casal,
+                transformando novos casais em referência, e disponibilizar um tempo de
+                fortalecimento visando soluções bíblicas para desafios atuais.</p>
             </div>
           </div>
 
@@ -81,11 +73,9 @@ export default function Ministerios() {
             />
             <div>
               <h2>JUBAUNI</h2>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Nullam vitae augue suscipit neque tincidunt vulputate eget eu metus.
-                Proin auctor libero semper sem venenatis imperdiet. Maecenas elit lorem,
-                gravida a sapien nec, placerat vulputate urna. Suspendisse eu porttitor
-                risus. Proin gravida facilisis velit, in consequat nisi commodo vitae.</p>
+              <p>Voltado para jovens universitários, incentivando e capacitando a desenvolver e envolver-se em missões nas universidades.
+                Abordar temas necessários e promover conversas de preparo e crescimento focadas
+                nesse período da vida jovem.</p>
             </div>
           </div>
 
@@ -99,11 +89,9 @@ export default function Ministerios() {
             />
             <div>
               <h2>JUBASTAFF</h2>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Nullam vitae augue suscipit neque tincidunt vulputate eget eu metus.
-                Proin auctor libero semper sem venenatis imperdiet. Maecenas elit lorem,
-                gravida a sapien nec, placerat vulputate urna. Suspendisse eu porttitor
-                risus. Proin gravida facilisis velit, in consequat nisi commodo vitae.</p>
+              <p>Capacitar irmãos de igrejas da região para levantar e formar novas lideranças,
+                resultando em novos ministérios de jovens e adolescentes em igrejas que não têm
+                desenvolvido ou têm tido alguma dificuldade com o trabalho jovem.</p>
             </div>
           </div>
         </div>
