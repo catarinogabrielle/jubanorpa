@@ -17,7 +17,7 @@ export default function Sobre() {
         </div>
 
         <div className={styles.boxInfo}>
-          <text>Assim que, se alguém está aem Cristo, bnova criatura é; as coisas cvelhas já passaram; eis que tudo se fez novo. (2 Coríntios 5:17)</text>
+          <text>Assim que, se alguém está em Cristo, nova criatura é; as coisas velhas já passaram; eis que tudo se fez novo. (2 Coríntios 5:17)</text>
 
           <h2>Nosso propósito:</h2>
           <p>Ser uma ferramenta na semeadura do futuro da Igreja Batista no Norte do Paraná.</p>
