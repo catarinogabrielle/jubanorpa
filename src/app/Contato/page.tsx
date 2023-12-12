@@ -19,7 +19,7 @@ export default function Contato() {
         <div className={styles.boxInfo}>
           <text>Apoiamos o crescimento e desenvolvimento do jovem e adolescente
             dentro das igrejas Batista, dando o suporte para criação e manutenção
-            de ministérios jovens no Norte do Paraná, e promovendo eventos de
+            de ministérios jovens no Noroeste do Paraná, e promovendo eventos de
             integração e comunhão entre as igrejas da região.</text>
 
           <div>

@@ -20,7 +20,7 @@ export default function Sobre() {
           <text>Assim que, se alguém está em Cristo, nova criatura é; as coisas velhas já passaram; eis que tudo se fez novo. (2 Coríntios 5:17)</text>
 
           <h2>Nosso propósito:</h2>
-          <p>Ser uma ferramenta na semeadura do futuro da Igreja Batista no Norte do Paraná.</p>
+          <p>Ser uma ferramenta na semeadura do futuro da Igreja Batista no Noroeste do Paraná.</p>
 
           <h2>Nossa visão:</h2>
           <p>Nada excelente é feito SOZINHO. (Um ministério não é liderado sozinho.)</p>
