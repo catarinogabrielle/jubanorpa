@@ -57,7 +57,7 @@ export default function Ministerios() {
             />
             <div>
               <h2>JUBADOIS</h2>
-              <p>Voltado para jovens casais que estão iniciando seu ministério cmo casal,
+              <p>Voltado para jovens casais que estão iniciando seu ministério como casal,
                 transformando novos casais em referência, e disponibilizar um tempo de
                 fortalecimento visando soluções bíblicas para desafios atuais.</p>
             </div>
