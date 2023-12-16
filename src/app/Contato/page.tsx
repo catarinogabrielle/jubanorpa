@@ -1,5 +1,5 @@
 import styles from './page.module.scss'
-import { FaInstagram, FaTiktok, FaYoutube, FaWhatsapp } from "react-icons/fa"
+import { FaInstagram, FaYoutube, FaWhatsapp } from "react-icons/fa"
 
 import Header from '../components/header/page'
 
@@ -24,29 +24,18 @@ export default function Contato() {
 
           <div>
             <h2>Telefone:</h2>
-            <p>(00) 00000-0000</p>
+            <p>(44) 99119-9282</p>
           </div>
 
           <div>
             <h2>Email:</h2>
-            <p>email@gmail.com</p>
-          </div>
-
-          <div>
-            <h2>Endereço:</h2>
-            <p>algum endereço aqui!</p>
+            <p>jubanorpa.batista@gmail.com</p>
           </div>
 
           <nav className={styles.contentSocial}>
-            <a href='https://www.instagram.com/' target="_blank">
+            <a href='https://www.instagram.com/jubanorpa/' target="_blank">
               <div style={{ backgroundColor: '#E8105F' }}>
                 <FaInstagram color="#fff" size={26} />
-              </div>
-            </a>
-
-            <a href='https://www.tiktok.com/pt-BR/' target="_blank">
-              <div style={{ backgroundColor: '#141515' }}>
-                <FaTiktok color="#fff" size={26} />
               </div>
             </a>
 
@@ -56,7 +45,7 @@ export default function Contato() {
               </div>
             </a>
 
-            <a href='https://web.whatsapp.com/' target="_blank">
+            <a href='https://api.whatsapp.com/send?phone=44991199282' target="_blank">
               <div style={{ backgroundColor: '#10e830' }}>
                 <FaWhatsapp color="#fff" size={26} />
               </div>

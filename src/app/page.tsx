@@ -5,7 +5,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import styles from './page.module.scss'
 import { FiMenu } from "react-icons/fi"
-import { FaInstagram, FaTiktok, FaYoutube, FaWhatsapp } from "react-icons/fa"
+import { FaInstagram, FaYoutube, FaWhatsapp } from "react-icons/fa"
 import { IoMdClose } from "react-icons/io"
 
 export default function Home() {
@@ -53,15 +53,9 @@ export default function Home() {
               e comunhão entre as igrejas da região.</p>
 
             <nav className={styles.contentSocial}>
-              <a href='https://www.instagram.com/' target="_blank">
+              <a href='https://www.instagram.com/jubanorpa/' target="_blank">
                 <div>
                   <FaInstagram color="#141515" size={22} />
-                </div>
-              </a>
-
-              <a href='https://www.tiktok.com/pt-BR/' target="_blank">
-                <div>
-                  <FaTiktok color="#141515" size={22} />
                 </div>
               </a>
 
@@ -71,7 +65,7 @@ export default function Home() {
                 </div>
               </a>
 
-              <a href='https://web.whatsapp.com/' target="_blank">
+              <a href='https://api.whatsapp.com/send?phone=44991199282' target="_blank">
                 <div>
                   <FaWhatsapp color="#141515" size={22} />
                 </div>
