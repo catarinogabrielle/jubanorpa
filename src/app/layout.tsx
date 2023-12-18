@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'JUBANORPA',
-  description: 'Juventude batista no norete do Paraná',
+  description: 'Juventude batista no noroeste do Paraná',
 }
 
 export default function RootLayout({
