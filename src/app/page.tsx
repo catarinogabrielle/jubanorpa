@@ -59,7 +59,7 @@ export default function Home() {
                 </div>
               </a>
 
-              <a href='https://www.youtube.com/' target="_blank">
+              <a href='https://www.youtube.com/channel/UCxRvoPduZmvn-Il0kACE2xg' target="_blank">
                 <div>
                   <FaYoutube color="#141515" size={22} />
                 </div>
