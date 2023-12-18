@@ -39,7 +39,7 @@ export default function Contato() {
               </div>
             </a>
 
-            <a href='https://www.youtube.com/channel/UCxRvoPduZmvn-Il0kACE2xg' target="_blank">
+            <a href='https://www.youtube.com/@jubanorpa_oficial' target="_blank">
               <div style={{ backgroundColor: '#fff' }}>
                 <FaYoutube color="#f00" size={26} />
               </div>
