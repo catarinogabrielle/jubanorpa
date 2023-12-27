@@ -23,11 +23,9 @@ export default function Projetos() {
                   <h2>{item.title}</h2>
                   <p>{item.description}</p>
                 </nav>
-                {/*
-                <Link className={styles.button} href={'my.pdf'}  target="_blank"  rel="noopener noreferrer" locale={false}>
+                <Link className={styles.button} href={'https://www.canva.com/design/DAF4M4Loxww/1skUEEp0E5Mx4cFzqE0Fhw/edit?utm_content=DAF4M4Loxww&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton '} target="_blank" rel="noopener noreferrer" locale={false}>
                   <text >Mais informações</text>
                 </Link>
-                */}
               </div>
               <Image
                 src={item.img}
