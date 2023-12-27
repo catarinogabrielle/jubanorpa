@@ -115,22 +115,28 @@
 .button {
   background-color: #141515;
   border: none;
-  color: #fff;
   padding: 8px 22px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 14px;
-  font-weight: bold;
   cursor: pointer;
   width: max-content;
   border-radius: 30px;
   margin-top: 18px;
   transition: 0.4s;
 
+  text {
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+  }
+
   @media screen and (max-width: 900px) {
-    font-size: 13px;
     width: 100%;
+
+    text {
+      font-size: 13px;
+    }
   }
 }
 

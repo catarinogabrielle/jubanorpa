@@ -3,6 +3,7 @@ import styles from './page.module.scss'
 
 import Header from '../components/header/page'
 import rows from '../JSON/projetos.json'
+import Link from 'next/link'
 
 export default function Projetos() {
   return (
@@ -22,7 +23,11 @@ export default function Projetos() {
                   <h2>{item.title}</h2>
                   <p>{item.description}</p>
                 </nav>
-                <button className={styles.button}>Mais informações</button>
+                {/*
+                <Link className={styles.button} href={'my.pdf'}  target="_blank"  rel="noopener noreferrer" locale={false}>
+                  <text >Mais informações</text>
+                </Link>
+                */}
               </div>
               <Image
                 src={item.img}
