@@ -53,6 +53,12 @@
             "title": "JUBA Deles / Delas",
             "description": "Palestras para as dificuldades e desafios dos dias atuais tanto para eles como para elas.",
             "img": "/projeto9.png"
+        },
+        {
+            "id": 10,
+            "title": "Encontro das Jubas",
+            "description": "é um culto organizado com a juventude da região, onde cada igreja fica responsável por uma parte do culto.",
+            "img": "/projeto10.png"
         }
     ]
 }

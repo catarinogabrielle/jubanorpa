@@ -26,7 +26,7 @@ export default function Sobre() {
           <p>Nada excelente é feito SOZINHO. (Um ministério não é liderado sozinho.)</p>
 
           <Image
-            src="/foto1.png"
+            src="/foto.png"
             width={300}
             height={300}
             className={styles.foto}
