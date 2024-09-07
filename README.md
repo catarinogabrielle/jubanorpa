@@ -1,37 +1,50 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+**JUBA Norpa**
+================
 
-## Getting Started
+**Projeto de Integração e Comunhão entre Igrejas Batistas**
 
-First, run the development server:
+**Descrição**
+---------------
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+O JUBA Norpa é um projeto que visa promover a integração e comunhão entre as igrejas Batistas da região Noroeste do Paraná. O objetivo é apoiar o crescimento e desenvolvimento do jovem e adolescente dentro das igrejas, dando suporte para a criação e manutenção de ministérios jovens.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Funcionalidades**
+-------------------
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+* **Projetos**: lista de projetos desenvolvidos pela JUBA Norpa, com descrição e imagens.
+* **Contato**: página de contato com informações de telefone, email e redes sociais.
+* **Redes Sociais**: links para as redes sociais da JUBA Norpa.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+**Tecnologias Utilizadas**
+---------------------------
 
-## Learn More
+* **Next.js**: framework para desenvolvimento de aplicações web.
+* **React**: biblioteca para desenvolvimento de interfaces de usuário.
+* **SCSS**: pré-processador de CSS.
+* **React Icons**: biblioteca de ícones para React.
 
-To learn more about Next.js, take a look at the following resources:
+**Instalação**
+--------------
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Clone o repositório: `git clone https://github.com/jubanorpa/juba-norpa.git`
+2. Instale as dependências: `npm install`
+3. Inicie o servidor de desenvolvimento: `npm run dev`
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+**Contribuição**
+----------------
 
-## Deploy on Vercel
+Contribuições são bem-vindas! Se você deseja contribuir com o projeto, por favor, faça um fork do repositório e envie um pull request com suas alterações.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Licença**
+------------
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# jubanorpa
+O JUBA Norpa é licenciado sob a licença MIT. Veja o arquivo LICENSE para mais informações.
+
+**Contato**
+------------
+
+Para mais informações, por favor, entre em contato conosco:
+
+* Telefone: (44) 99119-9282
+* Email: [jubanorpa.batista@gmail.com](mailto:jubanorpa.batista@gmail.com)
+* Redes Sociais: [Instagram](https://www.instagram.com/jubanorpa/) | [YouTube](https://www.youtube.com/@jubanorpa_oficial) | [WhatsApp](https://api.whatsapp.com/send?phone=44991199282)
